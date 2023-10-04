@@ -1,0 +1,3 @@
+<template>
+    single product
+</template>
